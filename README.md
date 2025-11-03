@@ -9,35 +9,33 @@
 </p>
 
 <div align="center" style="border:2px solid #8B0000; border-radius:8px; padding:10px; margin:20px auto; background-color:#0D1117; max-width:850px;">
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-    <div style="flex-grow: 1; flex-basis: 300px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:280px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=dark&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=ffffff&hide_border=true&custom_title=Contribution%20Streak" alt="GitHub Streak" width="100%" />
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+        <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0D1117&hide_border=true&ring_color=DC143C&currStreakLabel=DC143C&sideLabels=ffffff&custom_title=Overall%20Stats" alt="GitHub Stats" width="100%" />
     </div>
-        <div style="flex-grow: 1; flex-basis: 300px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:280px;">
+    <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=dark&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=ffffff&hide_border=true&custom_title=Contribution%20Streak" alt="GitHub Streak" width="100%" />
+    </div>  
+    <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&theme=dark&title_color=DC143C&text_color=ffffff&bg_color=0D1117&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
     </div>
-   <div style="background:#0D1117; border-radius:6px; overflow:hidden; width:calc(33% - 10px); min-width:280px; box-sizing:border-box;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0D1117&hide_border=true&ring_color=DC143C&currStreakLabel=DC143C&sideLabels=ffffff&custom_title=Overall%20Stats" alt="GitHub Stats" width="100%" /> </div>
   </div>
-</div>
+</div>>
   
   <!-- Activity Graph -->
   <div style="margin:12px 0; background:#0D1117; border-radius:8px; overflow:hidden;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbani218&theme=high-contrast&bg_color=0D1117&color=DC143C&line=8B0000&point=DC143C&area_color=8B0000&area=true&hide_border=true" width="100%" />
   </div>
-  
-<!-- Dev Quote -->
 <div align="center">
   <blockquote style="background:#0D1117; border:2px solid #8B0000; border-radius:8px; padding:15px; margin:20px auto; max-width:800px;">
-    <p style="color:#DC143C; font-size:1.2em; font-style:italic;">
+    <p style="color:#00BFFF; font-size:1.2em; font-style:italic;">
       "In this world is compete or be rivaled"
     </p>
-    <footer style="color:#8B0000; text-align:right;">
-      - Flowey
+    <footer style="color:#00BFFF; text-align:right;">
+      - Flowey 🌻
     </footer>
   </blockquote>
 </div>
-
 <!-- Tech Stack -->
 <h2 align="center" style="color:#DC143C;">Tech Stack</h2>
 <div align="center">
