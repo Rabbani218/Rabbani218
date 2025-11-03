@@ -1,58 +1,66 @@
-<div align="center">
+<!-- Intro -->
+<p align="center">
+<samp>
+  Hi, I'm Muhammad Abdurrahman Rabbani! ❤️<br>
+  I'm an Informatics Student at Universitas Bina Sarana Informatika 🕯️<br>
+  Passionate about AI-driven Full Stack Development 💾<br>
+  I enjoy building intelligent applications from UI concept to data-driven back-end. ✨
+</samp>
+</p>
 
-  Hi, I'm **Muhammad Abdurrahman Rabbani**! 👋
-  
-  I'm an **Informatics Student** at Universitas Bina Sarana Informatika 🎓
-  
-  I'm passionate about **AI-driven Full Stack Development** 🤖
-  
-  I enjoy building intelligent applications from UI concept (Figma) to data-driven back-end (Python/AI). 💡
-  
+<!-- GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=algolia" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=algolia" />
 </div>
 
 <div align="center">
-  <h3>Let's Connect! 💭</h3>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&langs_count=8&theme=algolia" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbani218&theme=react-dark&bg_color=0D1117&color=00B0FF&line=1A237E&point=00B0FF&area=true&hide_border=true&radius=8" />
+</div>
+
+<!-- Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+</p>
+
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,react,nodejs,express,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,figma,git,github,vscode,docker,aws" />
+</p>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rabbani218&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+<!-- Contact -->
+<h2 align="center">Let's Connect!</h2>
+<p align="center">
+  <a href="mailto:Rabbani.Office1806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-abdurrahman-rabbani-78b208346">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://id.jobstreet.com/id/profile/muhammadabdurrahman-rabbani-0VYgwp5ZY5">
-    <img src="https://img.shields.io/badge/JobStreet-16A3E0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS41MjEgOC4wMDRjMCAxLjkzOS0xLjU3MyAzLjUxNS0zLjUxNiAzLjUxNVM0LjQ4OSA5Ljk0MyA0LjQ4OSA4LjAwNCA2LjA2MiA0LjQ4OSA4LjAwNSA0LjQ4OXMzLjUxNiAxLjU3MyAzLjUxNiAzLjUxNXptLTEuMTQ0IDBjMC0xLjMwNy0xLjA2My0yLjM2Ny0yLjM3Mi0yLjM2N3MtMi4zNzIgMS4wNi0yLjM3MiAyLjM2NyAxLjA2IDIuMzY3IDIuMzcyIDIuMzY3IDIuMzczLTEuMDYgMi4zNzItMi4zNjd6TTggLjVDMy44NjIgLjUgLjUgMy44NjIgLjUgOHMzLjM2MiA3LjUgNy41IDcuNSA3LjUtMy4zNjIgNy41LTcuNVMxMi4xMzguNSA4IC41em0wIDEzLjgyM0M0LjgwNSAxNC4zMjMuODE4IDExLjMxNS44MTggOC4wMDRTNC44MDUgMS42ODQgOCAxLjY4NHMxLjI1NCAyLjggMy45NTIgNC45MzlDMTIuOTMgNS41NDMgMTQuMTcuOSA4LjgwMyAxNC4xN3ptMCAuMTUxYy0uMTA0IDAtLjIwNi0uMDEyLS4zMDgtLjAzN0M0LjQ1MyAxMy41NjUgMS41IDkuNjIgMS41IDhjMC0uMDI3LjAwMi0uMDUyLjAwMy0uMDc5LjAzLS4zMS4xLS42LjE4OC0uODY4QzIuODQyIDQuMTc3IDUuMjA3IDEuNSAyLjAzIDEuNUgxNmMwIDMuOTMyLTQuMTQgNy40ODgtNy42OSA2Ljg3N2EuNzUuNzUgMCAwIDEtLjUwMi0xLjI0N2MtLjExOC0uMjM3LS4yMTgtLjQ4Ni0uMy0uNzQ4LS4xMzctLjQ0Ny0uMjA3LS45MjYtLjIwNy0xLjQzMiAwLTEuOTM5IDEuNTczLTMuNTE1INDUuOTE0IDQuNDg5Yy0uMDAyLjAwMS0uMDAzLjAwMy0uMDA1LjAwNGMtLjAwMyAwLS4wMDcgLjAwMi0uMDEuMDAyLS4wMDIgMC0uMDA1LjAwMi0uMDA3LjAwMi0uMDAzIDAtLjAwNiAwLS4wMDktLjAwMmMtLjAwMy0uMDAxLS4wMDUtLjAwMi0uMDA4LS4wMDItLjAwMiAwLS4wMDUgMC0uMDA3LS4wMDItLjAwMyAwLS4wMDYgMC0uMDA5LS4wMDJMMTggMTMuMTg5Yy0uMTQyLjEwOS0uMzAzLjIwNi0uNDc4LjI4N0ExLjkzIDEuOTMgMCAwIDEgMTYuNSA5LjExOGMtLjA3LS4yMy0uMTYtLjQ0OS0uMjctLjY1NS0uNDEyLS43Ni0uOTU0LTEuNDEtMS41ODQtMS45MmEuNzUuNzUgMCAxIDAgMS4wNTUgMS4wNjNjLjQ1Mi4zNzkgLjgxLjgyIDEuMDYgMS4yODZsLjAwMS4wMDNjLjExOC4yMzYuMjE4LjQ4NS4zLjc0Ny4xMzYuNDQ2LjIwNS45MjUuMjA1IDEuNDMxIDAgLjkzOS0uMzY3IDEuODA0LS45NzYgMi40NDktLjE0My4xNDktLjMwNS4yNzktLjQ4MS4zOGwtLjAwNS4wMDMtLjAwNC4wMDJoLS4wMDNjLS4wMDIgMC0uMDAyIDAtLjAwNSAwYy0uMTUuMDgyLS4zMDUuMTU1LS40NjguMjE2bC0uMDAyLjAwN2MtLjE0NC4wNTItLjI5LjA5OC0uNDQxLjEyOWwtLjAwNy4wMDJjLS4xNTcuMDMzLS4zMTUuMDU0LS40NzYuMDZoLS4wMDNjLS4wMSAwLS4wMTkgMC0uMDI5LS4wMDFaIi8+PC9zdmc+&logoColor=white" alt="JobStreet"/>
+    <img src="https://img.shields.io/badge/JobStreet-00A0DC?style=for-the-badge&logo=jobstreet&logoColor=white" alt="JobStreet">
   </a>
-  <a href="mailto:Rabbani.Office1806@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+</p>
 
 <div align="center">
-
-> "First, solve the problem. Then, write the code."
-> 
-> *— John Johnson*
-  
-</div>
-
-<div align="center">
-  <h3>My Tech Stack 💻</h3>
-  <p>Technologies I've been working with:</p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,flask" alt="Python & AI Stack"/>
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css" alt="Web Stack"/>
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,docker,aws" alt="Tools & Deployment"/>
-  </p>
-</div>
-
-<div align="center">
-  <h3>My GitHub Activity 📈</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=radical&rank_icon=github" alt="Rabbani's GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=radical" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&theme=radical" alt="Top Languages"/>
-  
-  <hr>
-  
-  <h3>My GitHub Trophies 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabbani218&theme=radical&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <div id="badges">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Rabbani218&style=flat-square&color=blue" alt=""/>
 </div>
