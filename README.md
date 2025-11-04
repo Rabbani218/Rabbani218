@@ -29,10 +29,10 @@
 <div align="center">
   <blockquote style="background:#0D1117; border:2px solid #8B0000; border-radius:8px; padding:15px; margin:20px auto; max-width:800px;">
     <p style="color:#00BFFF; font-size:1.2em; font-style:italic;">
-      "In this world is compete or be rivaled"
+      "you have a Bug Time"
     </p>
     <footer style="color:#00BFFF; text-align:right;">
-      - Flowey 🌻
+      - Sans�
     </footer>
   </blockquote>
 </div>
