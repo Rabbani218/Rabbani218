@@ -34,10 +34,10 @@
 <div align="center">
   <blockquote style="background:#1a1a1a; border:2px solid #FF0000; border-radius:8px; padding:15px; margin:20px auto; max-width:800px; box-shadow:0 0 8px rgba(255,0,0,0.4);">
     <p style="color:#FFD700; font-size:1.2em; font-style:italic; text-shadow:0 0 5px rgba(255,215,0,0.5);">
-      " Code "
+      " So Buddy I gonna have question for yaa "
     </p>
     <footer style="color:#FF0000; text-align:right; font-weight:bold;">
-     _Gaster
+     Sans
     </footer>
   </blockquote>
 </div>
