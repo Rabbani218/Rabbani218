@@ -8,22 +8,19 @@
 </samp>
 </p>
 
-<!-- Stats Section -->
-<div align="center" style="border:2px solid #FF0000; border-radius:8px; padding:10px; margin:20px auto; background-color:#1a1a1a; max-width:850px; box-shadow:0 0 10px rgba(255,0,0,0.3);">
-    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-        <!-- GitHub Stats -->
-        <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="100%" />
-        </div>
-                        <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=dark&background=0D1117&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" width="100%" />
-        </div>  
-                <!-- Top Languages -->
-        <div style="flex-grow: 1; flex-basis: 270px; background:#0D1117; border-radius:6px; overflow:hidden; min-width:270px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" width="100%" />
-        </div>
-    </div>
-</div>
+<p align="center">
+  <a href="https://github.com/Rabbani218">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Rabbani218">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=dark&background=0D1117&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Rabbani218">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <!-- Activity Graph -->
 <div style="margin:12px 0; background:#0D1117; border-radius:8px; overflow:hidden; border:1px solid #FF0000;">
