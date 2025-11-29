@@ -8,19 +8,21 @@
 </samp>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Rabbani218">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rabbani218&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   </a>
+
   <a href="https://github.com/Rabbani218">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbani218&theme=dark&background=0D1117&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
   </a>
-</p>
-<p align="center">
+  
+  <br/>
+
   <a href="https://github.com/Rabbani218">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbani218&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbani218&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</div>
 
 <!-- Activity Graph -->
 <div style="margin:12px 0; background:#0D1117; border-radius:8px; overflow:hidden; border:1px solid #FF0000;">
